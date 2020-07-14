@@ -1,4 +1,4 @@
-# Junaid Usman [![HitCount](http://hits.dwyl.com/R3dian/R3dian.svg)](http://hits.dwyl.com/R3dian/R3dian)
+# Junaid Usman <a href="http://hits.dwyl.io/r3dian/r3dian"> <img src="http://hits.dwyl.io/r3dian/r3dian.svg" alt="HitCount"> </a>
 ## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
 ### Certified Sugar Solution Architect Professional | Certified Sugar Developer
 
