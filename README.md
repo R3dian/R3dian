@@ -6,7 +6,7 @@ Junaid Usman completed his BIT degree in Computer Science from National Universi
 
 More than 9 years of experience in developing and designing applications for B2B and B2C industries as a PHP/JavaScript software developer. He worked largely on SugarCRM customizations and development of third party plugins for SugarCRM. Providing quality solutions to complex business problems within scope, budget, and tight schedules.
 
-Fast grasp of new technologies. Proficient in diagnosing and resolving problems.
+Fast grasp of new technologies. Proficient in diagnosing and resolving problems. Loves watching movies, playing PS4, exploring the world.
 
 - 🔭 I’m currently working on python library which interacts with InforOS. This library provides a series of functionalities to handle data via Infor ION. Further information can be found [here](https://github.com/Fellow-Consulting-AG/inforion).
 - 🌱 I’m currently learning python programming language, Pandas, DevOps, Prefect.
