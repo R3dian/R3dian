@@ -1,4 +1,4 @@
-### Hi there 👋
+# Junaid Usman [![HitCount](http://hits.dwyl.com/R3dian/R3dian.svg)](http://hits.dwyl.com/R3dian/R3dian)
 
 <!--
 **R3dian/R3dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
