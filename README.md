@@ -1,4 +1,4 @@
-# Junaid Usman ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FR3dian%2FR3dian)
+# Junaid Usman [![HitCount](https://hits.dwyl.com/r3dian/r3dian.svg)](https://hits.dwyl.com/r3dian/r3dian)
 ## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
 ### Certified Sugar Solution Architect Professional | Certified Sugar Developer
 
