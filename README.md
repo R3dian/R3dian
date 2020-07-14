@@ -1,4 +1,6 @@
 # Junaid Usman [![HitCount](http://hits.dwyl.com/R3dian/R3dian.svg)](http://hits.dwyl.com/R3dian/R3dian)
+## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
+## Certified Sugar Solution Architect Professional | Certified Sugar Developer
 
 <!--
 **R3dian/R3dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
