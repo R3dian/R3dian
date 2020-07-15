@@ -1,6 +1,6 @@
 # Junaid Usman ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/R3dian/R3dian)
 ## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
-### Certified Sugar Solution Architect Professional | Certified Sugar Developer
+### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer
 
 Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software engineer in Fellow Consulting AG since July 2017.
 
