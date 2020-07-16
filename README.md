@@ -2,7 +2,7 @@
 ## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
 ### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer
 
-Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software engineer in Fellow Consulting AG since July 2017.
+Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software Engineer at Fellow Consulting AG since July 2017.
 
 More than 9 years of experience in developing and designing applications for B2B and B2C industries as a PHP/JavaScript software developer. He worked largely on SugarCRM customizations and development of third party plugins for SugarCRM. Providing quality solutions to complex business problems within scope, budget, and tight schedules.
 
