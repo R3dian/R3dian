@@ -1,5 +1,5 @@
 # Junaid Usman ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/R3dian/R3dian)
-## Senior Software Engineer, Fellow Consulting AG (2017 - Present)
+## Senior PHP Developer, Visable (2022 - Present)
 ### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer Specialist | Certified SugarCRM Administrator Specialist
 
 Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software Engineer at Fellow Consulting AG since July 2017.
@@ -8,7 +8,7 @@ More than 10 years of experience in developing and designing applications for B2
 
 Fast grasp of new technologies. Proficient in diagnosing and resolving problems. Loves watching movies, playing PS4, exploring the world.
 
-- 🔭 I’m currently working on python library which interacts with InforOS. This library provides a series of functionalities to handle data via Infor ION. Further information can be found [here](https://github.com/Fellow-Consulting-AG/inforion).
+- 🔭 Worked on python library which interacts with InforOS. This library provides a series of functionalities to handle data via Infor ION. Further information can be found [here](https://github.com/Fellow-Consulting-AG/inforion).
 - 🌱 I’m currently learning python programming language, Pandas, DevOps, Prefect.
 - ✨ Specialties: PHP, MySQL, SugarCRM, HTML5, JavaScripts, Backbone JS, Node JS
 - 💬 Ask me about `SugarCRM, PHP, JavaScript, MySQL, Python etc`.
