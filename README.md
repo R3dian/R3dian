@@ -1,4 +1,4 @@
-# Junaid Usman ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/R3dian/R3dian)
+# Junaid Usman [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FR3dian%2FR3dian&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Senior PHP Developer, Visable (2022 - Present)
 ### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer Specialist | Certified SugarCRM Administrator Specialist
 
