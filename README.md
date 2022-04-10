@@ -2,7 +2,7 @@
 ## Senior PHP Developer, Visable (2022 - Present)
 ### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer Specialist | Certified SugarCRM Administrator Specialist
 
-Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software Engineer at Fellow Consulting AG since July 2017.
+Junaid Usman completed his BIT degree in Computer Science from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2010. He is currently working as Senior Software Engineer at Visable GmbH since Feburary 2022.
 
 More than 10 years of experience in developing and designing applications for B2B and B2C industries as a PHP/JavaScript software developer. He worked largely on SugarCRM customizations and development of third party plugins for SugarCRM. Providing quality solutions to complex business problems within scope, budget, and tight schedules.
 
