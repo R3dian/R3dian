@@ -1,4 +1,5 @@
-# Junaid Usman [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FR3dian%2FR3dian&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Junaid Usman ![](https://komarev.com/ghpvc/?username=R3dian&color=blue&style=for-the-badge)
+
 ## Senior PHP Developer, Visable (2022 - Present)
 ### Certified SugarCRM Solution Architect Professional | Certified SugarCRM Developer Specialist | Certified SugarCRM Administrator Specialist
 
@@ -14,4 +15,24 @@ Fast grasp of new technologies. Proficient in diagnosing and resolving problems.
 - 💬 Ask me about `SugarCRM, PHP, JavaScript, MySQL, Python etc`.
 - 🤝 Contributing to Projects
 
-&nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/R3dian/R3dian/master/linkedin-icon.png)](https://www.linkedin.com/in/junaidu/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/R3dian/R3dian/master/twitter-icon.png)](https://twitter.com/R3dian)
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidu) [![Twitter](https://img.shields.io/twitter/follow/R3dian?logo=Twitter&style=for-the-badge)](https://twitter.com/R3dian)
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=R3dian&theme=minimal"/>
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3dian&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3dian&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R3dian&theme=vue" />
+</p>
