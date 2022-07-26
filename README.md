@@ -25,7 +25,7 @@ Fast grasp of new technologies. Proficient in diagnosing and resolving problems.
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=R3dian&theme=minimal"/>
+	<img src="https://j-activity-graph.herokuapp.com/graph?username=R3dian&theme=github-light"/>
 </p>
 
 ## 💳 Github Profile Summary Card
