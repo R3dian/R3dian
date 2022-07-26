@@ -30,11 +30,11 @@ Fast grasp of new technologies. Proficient in diagnosing and resolving problems.
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3dian&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3dian&theme=nord_bright"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3dian&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R3dian&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3dian&show_icons=true&theme=graywhite" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=R3dian&theme=graywhite" />
 </p>
